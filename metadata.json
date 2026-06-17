@@ -1,0 +1,8 @@
+{
+  "name": "Takk-i Medical ID",
+  "description": "Urgent Medical ID platform for Senegal featuring offline-first QR codes on bracelets and stickers with secure PIN medical access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
